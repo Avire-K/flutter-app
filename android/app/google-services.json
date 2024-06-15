@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124481692832",
+    "project_id": "firstappfirebase",
+    "storage_bucket": "firstappfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124481692832:android:b71b424ba1db045954d5c5",
+        "android_client_info": {
+          "package_name": "com.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20wy5RGPM568efJ1EDLnouJZg3hLRLj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
